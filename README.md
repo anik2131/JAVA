@@ -1,2 +1,2 @@
 # JAVA
-From zero to a Java Developer
+From zero to a moderate level Java Developer
